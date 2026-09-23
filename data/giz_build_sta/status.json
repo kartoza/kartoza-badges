@@ -1,1 +1,1 @@
-{ "schemaVersion": 1, "label": "Staging Build Status", "message": "FAILURE", "color": "red" }
+{ "schemaVersion": 1, "label": "Staging Build Status", "message": "SUCCESS", "color": "green" }
